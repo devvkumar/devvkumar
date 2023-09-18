@@ -2,6 +2,12 @@
 
 <br />
 
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=1000&lines=I'm+a+Student%2C+Developer%2C+Competitive+Programmer%2C+and+Open+Source+Enthusiast!!)](https://git.io/typing-svg)
+
+<br />
+
+
 <div float="right">
 <img src="https://i.ibb.co/m95ZHMM/Blue-and-White-Architect-Linked-In-Banner-2.png" width="500" height="180" align="right">
 </div>
