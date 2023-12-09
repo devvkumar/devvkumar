@@ -9,7 +9,7 @@
 
 
 <div float="right">
-<img src="https://i.ibb.co/m95ZHMM/Blue-and-White-Architect-Linked-In-Banner-2.png" width="500" height="180" align="right">
+<img src="banner2.png" width="500" height="180" align="right">
 </div>
 
 - 🔭 I’m currently working on Java & Web  Development 
