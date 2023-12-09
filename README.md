@@ -9,7 +9,7 @@
 
 
 <div float="right">
-<img src="banner2.png" width="500" height="180" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500" height="200" align="right">
 </div>
 
 - 🔭 I’m currently working on Java & Web  Development 
@@ -17,7 +17,7 @@
 - 📫 How to reach me:   
  [![Linkedin Badge](https://img.shields.io/badge/-Dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/ishan-goyal-1308/))](https://www.linkedin.com/in/devkumaar/)  [![Gmail Badge](https://img.shields.io/badge/-dkkardam49@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishan.goyal1305@gmail.com)](mailto:dkkardam49@gmail.com)
 - 😄 Pronouns: He/His 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devvkumar&label=Profile%20views&color=0e75b6&style=flat" alt="devvkumar" /> </p>
  <br />
  
 
